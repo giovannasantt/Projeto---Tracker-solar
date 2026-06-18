@@ -1,0 +1,6 @@
+/*
+ * Overlay desabilitado para este projeto porque a configuração
+ * do PWM é feita diretamente no código usando registradores.
+ * Se for necessário reativar, o nó correto deve ser escolhido
+ * conforme o DTS da placa alvo.
+ */
